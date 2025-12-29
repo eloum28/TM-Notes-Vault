@@ -1,0 +1,5 @@
+{
+  "name": "TM / Dear Secure Vault Notes",
+  "description": "A zero-knowledge encrypted notes application using AES-GCM 256-bit encryption. Sensitive data is encrypted on your device and never leaves in plain text. Features include secure AI summaries via Gemini and a persistent local vault.",
+  "requestFramePermissions": []
+}
